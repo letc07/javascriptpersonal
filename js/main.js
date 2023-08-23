@@ -17,8 +17,8 @@ document.getElementById("boton").addEventListener("click", saludar);
 
 let nombrecompleto = prompt("ingrese su Nombre")
 
-if (nombrecompleto == "Ori"){
-    alert("Hola, Ori! eres una genia");
+if (nombrecompleto == "Oriangelys"){
+    alert("Hola, Oriangelys! eres una genia");
 } else{
     alert("Hola, " + nombrecompleto);
 }
