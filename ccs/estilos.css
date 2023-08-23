@@ -1,0 +1,25 @@
+* {margin: 0px;
+    padding: 0px;}
+
+body{color: white;
+background-color: black;
+padding: 50px;
+margin: 10px;}
+
+#logo{width: 240px;
+border: 1px solid yellow;}
+
+.encabezado{font-size: 32px;
+letter-spacing: 2px;
+word-spacing: 3px;
+text-transform: uppercase;}
+
+
+.parrafo{color: blue;
+    margin: 0px 10px;}
+
+.boton{color: white;
+background-color: blue;
+padding: 10px 30px;
+border: 1px solid grey;}
+
